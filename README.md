@@ -32,10 +32,3 @@ Look at the `--plot` output. Anything between about 30 and 48 degrees lands with
 
 This matters practically: if your roof pitch is anywhere in that range, matching it costs you almost nothing versus a tilted rack. The optimization is real but the stakes are low, which is the kind of thing an optimizer will never tell you if you only print the argmax.
 
-## TODO
-
-- [ ] Liu & Jordan isotropic diffuse model
-- [ ] Pull clearness index from NREL NSRDB by lat/lon
-- [ ] Azimuth as a free parameter (currently hardcoded due south)
-- [ ] Southern hemisphere
-- [ ] Compare against PVWatts for a few sites as a sanity check
